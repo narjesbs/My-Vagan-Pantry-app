@@ -1,0 +1,10 @@
+.logo-home {
+	display: flex;
+	align-items: center;
+	width: 75px;
+	border-radius: 0.25rem;
+}
+.navi {
+	float: right !important;
+	margin-left: auto;
+}
